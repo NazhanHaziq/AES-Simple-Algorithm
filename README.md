@@ -4,6 +4,7 @@ This coding is to show you a basic code to perform advanced encryption standard 
 ## Table of Contents
 * [What is AES](#what-is-aes)
 * [AES Modes of Operation](#aes-modes-of-operation)
+* [How to use](#how-to-use)
 
 
 ## What is AES
