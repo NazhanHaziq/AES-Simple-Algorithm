@@ -123,3 +123,6 @@ After installing pycryptodome, it's a good idea to restart PyCharm to ensure tha
 
 Once your code editor has restarted, try running your Python script. You should be able to get the output.
 
+## Library Used
+
+[pycryptodome](#https://github.com/Legrandin/pycryptodome)
