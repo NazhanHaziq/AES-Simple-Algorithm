@@ -71,9 +71,9 @@ The decryption process of AES is essentially the reverse of the encryption proce
 
   iii. Final Round:
 
-Inverse ShiftRows
-Inverse SubBytes
-Inverse AddRoundKey
+  * Inverse ShiftRows
+  * Inverse SubBytes
+  * Inverse AddRoundKey
 
 ## AES Modes of Operation
 AES can be used in different modes to provide various security properties. The mode of operation determines how blocks are processed:
