@@ -101,13 +101,13 @@ The code will open up in your code editor.
 
 In your code editor, open the terminal by clicking on "View" > "Tool Windows" > "Terminal".
 
-### Step 2: Install pycryptodome
+### Step 4: Install pycryptodome
 
 In the terminal window, type the following command and press Enter to install 'pycryptodome':
 
     pip install pycryptodome
 
-### Step 3: Verify Installation
+### Step 5: Verify Installation
 
 After the installation is complete, you can verify that 'pycryptodome' is installed correctly by running the following command in the terminal:
 
@@ -115,11 +115,11 @@ After the installation is complete, you can verify that 'pycryptodome' is instal
 
 Look for 'pycryptodome' in the list of installed packages. If it's listed, it means that the installation was successful.
 
-### Step 4: Restart PyCharm
+### Step 6: Restart PyCharm
 
 After installing pycryptodome, it's a good idea to restart PyCharm to ensure that it recognizes the newly installed package.
 
-### Step 5: Run Your Python Script
+### Step 7: Run Your Python Script
 
 Once your code editor has restarted, try running your Python script. You should be able to get the output.
 
