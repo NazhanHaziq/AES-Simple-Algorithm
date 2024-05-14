@@ -125,6 +125,6 @@ Once your code editor has restarted, try running your Python script. You should 
 
 ## Library Used
 
-* [pycryptodome](#https://github.com/Legrandin/pycryptodome)
+* [pycryptodome](https://github.com/Legrandin/pycryptodome)
 
 Thank you!
