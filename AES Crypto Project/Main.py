@@ -2,7 +2,7 @@
 # Muhammad Nur Aiman bin Ali (CA21062)
 # Title: Attaining Confidentiality and Authentication by Employing AES Algorithm
 # Run on Python 3.12 with PyCharm IDE
-# Installed "py -m pip install pycryptodome" in cmd which directory to the "C:\Users\nazha\PycharmProjects\AES Crypto Project"
+# Installed "py -m pip install pycryptodome" in cmd which directory to the "C:\Users\nazhan\PycharmProjects\AES Crypto Project"
 
 import base64
 from Crypto.Cipher import AES
