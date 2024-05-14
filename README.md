@@ -84,7 +84,7 @@ AES can be used in different modes to provide various security properties. The m
 * CTR (Counter): Converts a block cipher into a stream cipher, encrypting successive values of a counter.
 
 ## How to use
-Here, I will show you guide for beginners to use.
+Here, I will show you guide for beginners to use. First and foremost, you need to download the zip file which content the full code
 
 ### Step 1: Set Up Project Environment
 1. Choose a Code Editor or IDE: You can use any code editor or integrated development environment (IDE) for Python development. Popular options include Visual Studio Code, PyCharm, Sublime Text, Atom, or IDLE (which comes bundled with Python).
